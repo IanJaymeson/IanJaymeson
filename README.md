@@ -32,8 +32,5 @@ I work across both **frontend and backend**, and I'm comfortable joining existin
 
 I'm open to **work, commissions and collaborations**.
 
-You can reach me through **Discord** or the **Roblox DevForum**.
-
-<p align="center">
-  <sub>Always building something new.</sub>
-</p>
+- **Discord:** `avanthyst`
+- **Roblox DevForum:** [Avanthyst — Full Stack Scripter | 6+ Years Experience](https://devforum.roblox.com/t/open-avanthyst-full-stack-scripter-6-years-experience/4681988)
