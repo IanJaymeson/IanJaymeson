@@ -19,15 +19,6 @@ I'm a **Roblox developer with 6+ years of experience**, focused on building comp
 
 I work across both **frontend and backend**, and I'm comfortable joining existing codebases or building systems from scratch. My main focus is creating code that is clean, scalable, maintainable and easy to expand.
 
-- 🎮 Gameplay systems & mechanics
-- ⚔️ Combat systems
-- 🔥 Abilities, powers & skill systems
-- 🖥️ UI systems
-- 💾 Data management & progression
-- 🤖 NPC behavior & AI
-- 🔄 Client / server architecture
-- 🧩 Existing codebase integration
-
 ## Tech & Tools
 
 <p>
