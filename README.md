@@ -28,12 +28,6 @@ I work across both **frontend and backend**, and I'm comfortable joining existin
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## What I Like Building
-
-I especially enjoy projects involving **combat, abilities, progression and unique gameplay mechanics**.
-
-My goal is to make systems that not only work well technically, but also feel responsive and polished for the player.
-
 ## Contact
 
 I'm open to **work, commissions and collaborations**.
