@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Roblox Developer / Scripter</b><br>
-  Building gameplay systems, combat, abilities, UI and scalable backend architecture.
 </p>
 
 <p align="center">
