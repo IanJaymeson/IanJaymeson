@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Roblox%20Developer-111827?style=for-the-badge" alt="Roblox Developer">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white" alt="Luau">
-  <img src="https://img.shields.io/badge/6%2B%20Years-Experience-22C55E?style=for-the-badge" alt="6+ Years Experience">
+  <img src="https://img.shields.io/badge/6%2B%20Years-Experience-22C55E?style=for-the-badge" alt="5+ Years Experience">
 </p>
 
 ---
